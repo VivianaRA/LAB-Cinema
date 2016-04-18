@@ -1,0 +1,22 @@
+*{
+	outline: 1px solid rgba(255,0,0,0.4)
+}
+.logo {
+ 	height:100%
+}
+img {
+ 	width:100%
+}
+.titulo{
+ 	padding-top:20%;
+}
+
+p {
+	floating: left;
+}
+input {
+	margin-left:250px;
+}
+iframe {
+	width:100% 
+}
